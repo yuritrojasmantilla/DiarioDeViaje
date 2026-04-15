@@ -12,3 +12,6 @@ Tokio es la capital de **Japón** y la metrópolis más poblada del mundo, con c
     -Cruce de Shibuya: El cruce peatonal más famoso del mundo y la estatua de Hachiko.
     -Tokyo Skytree: La torre más alta, con vistas panorámicas espectaculares de la ciudad.
     -Akihabara: El paraíso de la electrónica, anime, manga y cultura otaku.
+
+## **Vuelos desde Colombia:**
+Volar de Colombia a Tokio implica al menos una o dos escalas (usualmente en EE.UU. o Canadá) con una duración total de más de 23 horas. Aerolíneas como *Avianca*, *United*, *Air Canada*, *American Airlines* e *Iberia* ofrecen rutas desde Bogotá (BOG), Medellín (MDE) o Cali (CLO), con precios que pueden superar los **7-10 millones** de **COP** ida y vuelta, siendo más económico entre noviembre y marzo.
