@@ -2,3 +2,6 @@
 
 ## **Imagen:** 
 ![Antigua Guatemala](https://media.istockphoto.com/id/1137146624/es/foto/paisaje-urbano-de-antigua-city-guatemala.jpg?s=2048x2048&w=is&k=20&c=rgu9shELWRWbgqEW9RIdQXcQxrYFU8y-Ld3KQeN_nzo=)
+
+## **Descripción:** 
+Antigua Guatemala es una joya colonial declarada Patrimonio de la Humanidad por la UNESCO en 1979, famosa por sus calles empedradas, iglesias barrocas y ruinas del siglo XVI al pie de tres *volcanes* (Agua, Fuego, Acatenango). Fue la tercera capital de **Guatemala** (1543-1773), destacando hoy por su preservación, gastronomía y el Arco de Santa Catalina. Es el destino turístico principal del país, conocido por su ambiente bohemio, cafés, restaurantes, escuelas de español y las procesiones durante la Semana Santa.
