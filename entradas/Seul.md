@@ -12,3 +12,6 @@ Seúl, capital de **Corea del Sur** situada a orillas del río Han, es una vibra
     -Insadong: Calle peatonal famosa por sus casas de té, galerías de arte y artesanías.
     -Gangnam y K-Star Road: Zona moderna, sede de Gangnam Style y la estatua de manos frente al COEX.
     -Mercado Gwangjang: Perfecto para probar comida tradicional auténtica como el bindaetteok (tortita de frijol).
+
+## **Vuelos desde Colombia:**
+Los vuelos desde Colombia (generalmente desde Bogotá-BOG) a Seúl, Corea del Sur (ICN), no son directos y suelen tener un costo promedio de ida y vuelta a partir de **$6.100.000** - **$6.900.000 COP**. Las principales aerolíneas incluyen *Air France*, *Turkish Airlines*, *American Airlines* y *Avianca*, con conexiones en París, Ciudad de México, Nueva York o Frankfurt, y una duración total de más de 23-26 horas.
