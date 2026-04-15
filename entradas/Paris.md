@@ -12,3 +12,6 @@ París, capital de Francia y apodada la **"Ciudad de la Luz"**, es una metrópol
     -Montmartre y Sacré-Cœur: Ideal para pasear y tener vistas panorámicas.
     -Barrios: Recorre Le Marais, el Barrio Latino y la Île de la Cité.
     -Río Sena: Un paseo en bateaumouche al atardecer es ideal.
+
+## **Vuelos desde Colombia:**
+Los vuelos de ida y vuelta desde Colombia (Bogotá) a París suelen costar entre **$1.350.000** y **$3.500.000** **COP** o más, dependiendo de la anticipación y temporada. Las opciones más económicas se encuentran generalmente en temporada baja (febrero/abril) y con aerolíneas que ofrecen escalas, mientras que vuelos directos con *Avianca* o *Air France* pueden ser más costosos.
