@@ -5,3 +5,10 @@
 
 ## **Descripción:** 
 Tokio es la capital de **Japón** y la metrópolis más poblada del mundo, con cerca de *40 millones de habitantes* en su área metropolitana. Fusiona intensamente modernidad tecnológica, luces de neón y rascacielos con tradiciones milenarias, templos serenos y jardines. Anteriormente conocida como Edo, es el centro político y financiero del país.
+
+## **Lugares a Visitar:** 
+    -Templo Senso-ji (Asakusa): El templo más antiguo y pintoresco, con su calle comercial Nakamise-dori.
+    -Santuario Meiji Jingu: Un santuario sintoísta rodeado por un frondoso bosque, dedicado al emperador Meiji.
+    -Cruce de Shibuya: El cruce peatonal más famoso del mundo y la estatua de Hachiko.
+    -Tokyo Skytree: La torre más alta, con vistas panorámicas espectaculares de la ciudad.
+    -Akihabara: El paraíso de la electrónica, anime, manga y cultura otaku.
