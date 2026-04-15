@@ -12,3 +12,6 @@ Ushuaia, conocida como la **"ciudad más austral del mundo"** y **"puerta de ent
     -Museo Marítimo y del Presidio de Ushuaia: Ubicado en la antigua cárcel, es fundamental para conocer la historia local.
     -Laguna Esmeralda: Trekking popular de dificultad baja/media, famoso por sus paisajes glaciares y color de agua.
     -Glaciar Martial: Ideal para hacer senderismo con vistas panorámicas de la ciudad y el canal, a solo 7 km del centro.
+
+## **Vuelos desde Colombia:**
+Los vuelos desde Colombia a Ushuaia (USH) generalmente implican escalas, usualmente vía Buenos Aires (EZE/AEP), con una duración de 13 a 15 horas y precios que oscilan entre **COP 490.000** y **COP 1.900.000**. Aerolíneas como *Aerolíneas Argentinas* y *LATAM* operan la ruta con conexiones. Se recomienda cotizar en KAYAK o Turismocity para encontrar las mejores tarifas.
