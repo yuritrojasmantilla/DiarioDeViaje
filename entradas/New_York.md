@@ -12,3 +12,6 @@ Nueva York (NYC) es la ciudad más poblada de EE. UU. y un epicentro global de f
     -Queens: El área más diversa étnicamente.
     -The Bronx: Cuna del hip-hop y hogar del Yankee Stadium.
     -Staten Island: Más residencial y suburbano.
+
+## **Vuelos desde Colombia:**
+Los vuelos desde Colombia a New York City (JFK/EWR) tienen precios competitivos, con tarifas desde aproximadamente **COP 840,000** en aerolíneas como *Avianca*, *United* y *LATAM*. Los vuelos directos suelen durar cerca de 6-7 horas, saliendo principalmente desde Bogotá (BOG), Medellín (MDE), Cali (CLO), Pereira (PEI) y Cartagena (CTG).
