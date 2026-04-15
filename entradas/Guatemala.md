@@ -12,3 +12,6 @@ Antigua Guatemala es una joya colonial declarada Patrimonio de la Humanidad por 
     -Volcán de Pacaya: Excursión popular cercana para caminar sobre zonas volcánicas.
     -ChocoMuseo: Para conocer la historia del cacao y hacer talleres.
     -Hobbitenango: Un parque ecológico temático en las montañas cercanas.
+
+## **Vuelos desde Colombia:**
+Los vuelos desde Colombia (generalmente Bogotá - BOG) hacia Guatemala (Ciudad de Guatemala - GUA, a 22 km de Antigua) duran unas 3h 20min en vuelos directos. *Avianca* y *Wingo* ofrecen opciones directas, con precios desde **COP 500,000** - **600,000** (ida) en temporada baja. *Copa Airlines* ofrece opciones con escala.
