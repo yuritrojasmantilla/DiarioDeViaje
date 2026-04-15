@@ -12,3 +12,6 @@ Chicago, ubicada en *Illinois* a orillas del lago Michigan, es la tercera ciudad
     -360 Chicago (John Hancock Center): Ofrece una de las mejores vistas panorámicas de la ciudad.
     -Navy Pier: Un muelle con atracciones, restaurantes y una rueda de la fortuna con vistas al lago Michigan.
     -Chicago Riverwalk: Un paseo peatonal junto al río ideal para ver la arquitectura. 
+
+## **Vuelos desde Colombia:**
+Los vuelos desde Colombia (principalmente Bogotá) a Chicago (CHI) tienen precios que inician desde aproximadamente **COP 1.500.000** a **COP 1.700.000** para ida y vuelta, con opciones directas o con escalas. Aerolíneas como *Avianca*, *United*, *Spirit*, *Frontier*, *Copa* y *LATAM* operan esta ruta.
